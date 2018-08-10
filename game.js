@@ -1,4 +1,4 @@
-require("js/matchvs.js")
+require("js/matchvs.all.js")
 
 let matchvsEngine = new MatchvsEngine()
 let matchvsResponse = new MatchvsResponse()
